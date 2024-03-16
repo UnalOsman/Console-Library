@@ -7,13 +7,6 @@ internal class Program
     static List<OduncKitap> oduncKitaps = new List<OduncKitap>();
     static List<OduncKitap> gecmisKitapListesi = new List<OduncKitap>();
 
-    /* Merhaba sayın Tolga hocam.Böyle bir programın içinde bulunduğum için size teşekkürlerimi iletiyorum.
-     * Kendimdeki eksikleri bir nebze olsa da görmüş bulunmaktayım.Constructor yapısını tam olarak 
-     * bilmediğimi farkettim.Birkaç gün ona çalıştım.Bazı kod satırları için ChatGPT 'den yardım aldığımı
-     * söylemek isterim.Lambda ve DateTime satırlarında.Olabildiğince kendim yapmaya çalıştım tabiki.
-     * Tekrardan teşekkürlerimi ve saygılarımı sunarım,gerçekten hayatıma etki eden insanlardan birisiniz.
-     */
-
 
     static void Main()
     {
